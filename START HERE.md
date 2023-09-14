@@ -13,6 +13,15 @@
 3. [Install gh](https://formulae.brew.sh/formula/gh#default): `brew install gh` (this is basically just used to sign in)
 4. Login: `gh auth login` 
 5. Follow steps: Github.com -> HTTPS -> Login with a web browser 
-## Setting up your Repo
+## (Optional) Cloning an Existing Repo
 1. [Create a repo in github](https://github.com/new)
-2. 
+2. (Optional) Clone an existing repository by typing the following in terminal: `git clone https://github.com/benjgrad/obsidian-starter.git` and 
+3. Then enter the folder: `cd obsidian-starter`
+4. Set your remote origin to your repo: `git remote set-url origin https://github.com/[USERNAM]/[REPO]`
+5. Set your branch: `git branch -m main`
+6. Push your branch: `git push -u origin main`
+## Configure your Git Plugin
+1. Open a folder as a Vault in Obsidian
+2. In Obsidian, install the 'Obsidian Git' plugin.
+3. If the folder isn't already a git repo, initialize a repo: `CMD + P` -> 'Obsidian Git: Initialize a new repo'
+4. If you haven't done it yet, set the remote origin: `CMD + P` -> 'Obsidian Git: Edit Remotes' -> origin -> (Put your url there)
