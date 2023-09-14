@@ -25,3 +25,9 @@
 2. In Obsidian, install the 'Obsidian Git' plugin.
 3. If the folder isn't already a git repo, initialize a repo: `CMD + P` -> 'Obsidian Git: Initialize a new repo'
 4. If you haven't done it yet, set the remote origin: `CMD + P` -> 'Obsidian Git: Edit Remotes' -> origin -> (Put your url there)
+## (Optional) Enabling Automatic Script Updates
+Because it can be difficult to read files from template scripts, I needed to get creative. Instead, a script runs to populate the js files with the names of the tasks.
+	1. `brew install pre-commit`
+	2. `chmod +x generateDailyTasks.sh`
+	3. `chmod +x generateDailyList.sh`
+	4. `pre-commit install`

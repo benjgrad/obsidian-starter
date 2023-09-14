@@ -1,0 +1,15 @@
+repos:
+-   repo: local
+    hooks:
+    -   id: generate-daily-list
+        name: Generate Daily List
+        entry: bash generateGetDailyList.sh
+        language: system
+        files: ^Journal/dailyTasks\.md$
+-   repo: local
+    hooks:
+    -   id: generate-daily-tasks
+        name: Generate Daily List
+        entry: bash generateGetDailyTasks.sh
+        language: system
+        files: ^Journal/dailyTasks\.md$

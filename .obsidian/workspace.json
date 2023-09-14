@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "882573a1713025ea",
+        "id": "f1d96b6aefefebac",
         "type": "tabs",
         "children": [
           {
-            "id": "697b004bf81c75ac",
+            "id": "5edb95e26f81f8d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "START HERE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -62,6 +66,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "697ce212a0a0ad63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "697b004bf81c75ac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "START HERE.md"
+              }
             }
           },
           {
@@ -153,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,12 +190,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "697b004bf81c75ac",
+  "active": "5edb95e26f81f8d7",
   "lastOpenFiles": [
+    "generateGetDailyTasks.sh",
+    "generateGetDailyList.sh",
+    "Journal/dailyTasks.md",
+    "Journal/Weekly/2023-W36.md",
+    "Journal/Yearly/2023.md",
+    "Journal/Daily/b39a5031-de2b-41a9-aa4e-eff4d5674961.md",
+    "Journal/Daily/2023-09-14.md",
+    "Journal/Daily/2023-09-03.md",
+    "Journal/Daily/2023-09-04.md",
+    "Journal/Daily/2023-09-05.md",
+    "Journal/Daily/2023-09-06.md",
+    "Journal/Daily/2023-09-07.md",
+    "Journal/Daily/2023-09-08.md",
+    "Journal/Daily/2023-09-09.md",
+    "Journal/Daily/2023-09-10.md",
+    "Journal/Daily/2023-09-11.md",
+    "Journal/Daily/2023-09-12.md",
+    "Journal/Daily/2023-09-13.md",
     "START HERE.md",
     "2023-09-14.md",
-    "Journal/Agenda.md",
-    "Journal/Daily/2023-09-13.md",
-    "Journal/Daily/2023-09-14.md"
+    "Journal/Agenda.md"
   ]
 }
