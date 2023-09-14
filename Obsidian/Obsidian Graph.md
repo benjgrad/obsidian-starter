@@ -1,0 +1,5 @@
+The Obsidian Graph is a tool for showing how all of your note relate to each other. It uses links to create associations, and displays them in the form of a [[Graph (Data Structures)]]. This includes links to pages that don't yet exist, allowing you to easily define concepts to research further. By viewing the Obsidian Graph, you can easily click through pages that are related, and visualize your understanding/documentation on a particular topic, while highlighting missing links for you to continue your research. 
+
+## Viewing Your Graph
+The shortcut to view your Graph in Obsidian by default is `CMD + G`. To open your Graph on iPhone, select the menu in the bottom bar, and click 'Open graph view'. Below is an example of what you will see. Notice that as of the time of writing this, I have not completed documentation on several topics, allowing me to easily find determine how to continue my research and documentation. 
+![[Obsidian Graph.png]]

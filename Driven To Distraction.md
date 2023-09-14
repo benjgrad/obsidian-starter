@@ -1,0 +1,1 @@
+> If you have ADD, you are 40 percent more likely to get divorced than if you don't, and 30 percent more likely to be [[Unemployment|unemployed.]] Estimates run as high as 40 percent of the [[Addiction|addicted]] population having ADD, and a significant proportion of the eating-disorder population #psychology #quotes

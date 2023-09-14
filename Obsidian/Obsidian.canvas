@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"cefe831fb3418429","type":"file","file":"Obsidian/Obsidian.md","x":-460,"y":-260,"width":420,"height":560},
+		{"id":"63edc067643cf4a7","type":"file","file":"Obsidian/Obsidian Graph.md","x":140,"y":-260,"width":840,"height":560},
+		{"id":"d6059037f09647d9","type":"file","file":"Obsidian/Obsidian Hotkeys.md","x":140,"y":380,"width":840,"height":460},
+		{"id":"766befe19e2a185a","x":-1120,"y":-180,"width":520,"height":300,"type":"file","file":"Markdown.md"}
+	],
+	"edges":[
+		{"id":"db202bc48e3a3280","fromNode":"cefe831fb3418429","fromSide":"right","toNode":"63edc067643cf4a7","toSide":"left"},
+		{"id":"38e1327101d189b2","fromNode":"cefe831fb3418429","fromSide":"right","toNode":"d6059037f09647d9","toSide":"left"},
+		{"id":"7e030effa86cc549","fromNode":"766befe19e2a185a","fromSide":"right","toNode":"cefe831fb3418429","toSide":"left"}
+	]
+}

@@ -1,0 +1,1 @@
+[[Journal/Weekly/<%moment(tp.file.title).add(-1,'week').format("gggg-[W]ww")%>|<- Previous]] | [[Journal/Weekly/<%moment(tp.file.title).add(1,'week').format("gggg-[W]ww")%>|Next ->]]
